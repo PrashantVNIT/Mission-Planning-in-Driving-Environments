@@ -1,2 +1,4 @@
 # Mission-Planning-in-Driving-Environments
-implement Dijkstra's search algorithm on a road network
+**Idea of this project is to:**
+* Implement Dijkstra's search algorithm on a road network graph.
+* Implement the A* search algorithm using a Euclidean heuristic on a road network graph. 
